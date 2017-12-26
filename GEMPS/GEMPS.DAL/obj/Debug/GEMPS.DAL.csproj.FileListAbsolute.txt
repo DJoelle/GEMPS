@@ -1,0 +1,12 @@
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.DAL\bin\Debug\GEMPS.DAL.dll
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.DAL\bin\Debug\GEMPS.DAL.pdb
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.DAL\bin\Debug\GEMPS.BO.dll
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.DAL\bin\Debug\GEMPS.Setting.dll
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.DAL\bin\Debug\GEMPS.BO.pdb
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.DAL\bin\Debug\GEMPS.BO.xml
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.DAL\bin\Debug\GEMPS.Setting.pdb
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.DAL\obj\Debug\GEMPS.DAL.csprojResolveAssemblyReference.cache
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.DAL\obj\Debug\GEMPS.DAL.RsDAL.resources
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.DAL\obj\Debug\GEMPS.DAL.csproj.GenerateResource.Cache
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.DAL\obj\Debug\GEMPS.DAL.dll
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.DAL\obj\Debug\GEMPS.DAL.pdb

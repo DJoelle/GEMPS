@@ -1,0 +1,11 @@
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.Reporting\bin\Debug\GEMPS.Reporting.exe.config
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.Reporting\bin\Debug\GEMPS.Reporting.exe
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.Reporting\bin\Debug\GEMPS.Reporting.pdb
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.Reporting\obj\Debug\GEMPS.Reporting.csprojResolveAssemblyReference.cache
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.Reporting\obj\Debug\GEMPS.Reporting.Properties.Resources.resources
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.Reporting\obj\Debug\GEMPS.Reporting.csproj.GenerateResource.Cache
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.Reporting\obj\Debug\GEMPS.Reporting.exe
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.Reporting\obj\Debug\GEMPS.Reporting.pdb
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.Reporting\bin\Debug\GEMPS.BO.dll
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.Reporting\bin\Debug\GEMPS.BO.pdb
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.Reporting\bin\Debug\GEMPS.BO.xml

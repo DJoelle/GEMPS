@@ -1,0 +1,17 @@
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.GUIConsole\bin\Debug\GEMPS.GUIConsole.exe.config
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.GUIConsole\bin\Debug\GEMPS.GUIConsole.exe
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.GUIConsole\bin\Debug\GEMPS.GUIConsole.pdb
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.GUIConsole\bin\Debug\GEMPS.BLL.dll
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.GUIConsole\bin\Debug\GEMPS.BO.dll
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.GUIConsole\bin\Debug\GEMPS.Reporting.exe
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.GUIConsole\bin\Debug\GEMPS.Setting.dll
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.GUIConsole\bin\Debug\GEMPS.DAL.dll
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.GUIConsole\bin\Debug\GEMPS.BLL.pdb
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.GUIConsole\bin\Debug\GEMPS.BO.pdb
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.GUIConsole\bin\Debug\GEMPS.BO.xml
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.GUIConsole\bin\Debug\GEMPS.Reporting.pdb
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.GUIConsole\bin\Debug\GEMPS.Setting.pdb
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.GUIConsole\bin\Debug\GEMPS.DAL.pdb
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.GUIConsole\obj\Debug\GEMPS.GUIConsole.csprojResolveAssemblyReference.cache
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.GUIConsole\obj\Debug\GEMPS.GUIConsole.exe
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.GUIConsole\obj\Debug\GEMPS.GUIConsole.pdb

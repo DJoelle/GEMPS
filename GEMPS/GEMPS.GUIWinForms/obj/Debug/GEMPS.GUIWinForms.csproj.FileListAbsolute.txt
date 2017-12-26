@@ -1,0 +1,4 @@
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.GUIWinForms\bin\Debug\GEMPS.GUIWinForms.exe.config
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.GUIWinForms\obj\Debug\GEMPS.GUIWinForms.csprojResolveAssemblyReference.cache
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.GUIWinForms\obj\Debug\GEMPS.GUIWinForms.Properties.Resources.resources
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.GUIWinForms\obj\Debug\GEMPS.GUIWinForms.csproj.GenerateResource.Cache

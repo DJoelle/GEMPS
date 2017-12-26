@@ -1,0 +1,382 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GEMPS.BO</name>
+    </assembly>
+    <members>
+        <member name="T:GEMPS.BO.Contact">
+            <summary>
+            Represents an instance of Contact.
+            </summary>
+        </member>
+        <member name="P:GEMPS.BO.Contact.PhoneNumber">
+            <summary>
+            The string containing this Contact phone number(s). It can be about more than one phone number, they just have to be formated as one string.
+            </summary>
+        </member>
+        <member name="P:GEMPS.BO.Contact.POBox">
+            <summary>
+            The string containing this Contact PO Box.
+            </summary>
+        </member>
+        <member name="P:GEMPS.BO.Contact.Email">
+            <summary>
+            The string containing this Contact email(s). It can be about more than one email, they just have to be formated as one string.
+            </summary>
+        </member>
+        <member name="P:GEMPS.BO.Contact.Fax">
+            <summary>
+            The string containing this Contact fax number(s). It can be about more than one fax number, they just have to be formated as one string.
+            </summary>
+        </member>
+        <member name="P:GEMPS.BO.Contact.Facebook">
+            <summary>
+            This Contact facebook account.
+            </summary>
+        </member>
+        <member name="M:GEMPS.BO.Contact.#ctor">
+            <summary>
+            Represents an instance of Contact with none-initialized properties.
+            </summary>
+        </member>
+        <member name="M:GEMPS.BO.Contact.#ctor(System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            Represents an instance of Contact.
+            </summary>
+            <!--<param name="id">The system identifier of this Contact.</param>-->
+            <param name="phoneNumber">The string containing this Contact phone number(s). It can be about more than one phone number, they just have to be formated as one string.</param>
+            <param name="pOBox">The string containing this Contact PO Box.</param>
+            <param name="email">The string containing this Contact email(s). It can be about more than one email, they just have to be formated as one string.</param>
+            <param name="fax">The string containing this Contact fax number(s). It can be about more than one fax number, they just have to be formated as one string.</param>
+            <param name="facebook">This Contact facebook account.</param>
+        </member>
+        <member name="M:GEMPS.BO.Contact.#ctor(GEMPS.BO.Contact)">
+            <summary>
+            Represents an instance of Contact having the copy of properties values from another existing Contact instance.
+            </summary>
+            <param name="contact">The Contact instance from which the properpies values will be copied.</param>
+        </member>
+        <member name="M:GEMPS.BO.Contact.GetHashCode">
+            <summary>
+            A redefinition of the string.GetHashCode() method.
+            </summary>
+            <returns>Returns the hash code for this Contact instance Id value.</returns>
+        </member>
+        <member name="M:GEMPS.BO.Contact.Equals(System.Object)">
+            <summary>
+            Determines whether this instance and another specified Contact object are the same, referring to their Ids values.
+            </summary>
+            <param name="obj">The other Contact object to compare with this instance.</param>
+            <returns>Returns a Boolean (true or false) value.</returns>
+        </member>
+        <member name="M:GEMPS.BO.Contact.ToString">
+            <summary>
+            A redefinition of the string.ToString() method.
+            </summary>
+            <returns>Returns a string that represents the current Contact object.</returns>
+        </member>
+        <member name="T:GEMPS.BO.Country">
+            <summary>
+            Represents an instance of Country.
+            </summary>
+        </member>
+        <member name="P:GEMPS.BO.Country.RegionId">
+            <summary>
+            The system identifier of the Region in which this Country is located.
+            </summary>
+        </member>
+        <member name="M:GEMPS.BO.Country.#ctor">
+            <summary>
+            Represents an instance of Country with none-initialized properties.
+            </summary>
+        </member>
+        <member name="M:GEMPS.BO.Country.#ctor(System.String,System.String)">
+            <summary>
+            Represents an instance of Country.
+            </summary>
+            <param name="regionId">The system identifier of the Region in which this Country is located.</param>
+            <param name="name">This Country name.</param>
+        </member>
+        <member name="M:GEMPS.BO.Country.#ctor(GEMPS.BO.Country)">
+            <summary>
+            Represents an instance of Country having the copy of properties values from another existing Country instance.
+            </summary>
+            <param name="country">The Country instance from which the properpies values will be copied.</param>
+        </member>
+        <member name="M:GEMPS.BO.Country.GetHashCode">
+            <summary>
+            A redefinition of the string.GetHashCode() method.
+            </summary>
+            <returns>Returns the hash code for this Country instance Id value.</returns>
+        </member>
+        <member name="M:GEMPS.BO.Country.Equals(System.Object)">
+            <summary>
+            Determines whether this instance and another specified Country object are the same, referring to their Ids values.
+            </summary>
+            <param name="obj">The other Country object to compare with this instance.</param>
+            <returns>Returns a Boolean (true or false) value.</returns>
+        </member>
+        <member name="M:GEMPS.BO.Country.ToString">
+            <summary>
+            A redefinition of the string.ToString() method.
+            </summary>
+            <returns>Returns a string that represents the current Country object.</returns>
+        </member>
+        <member name="T:GEMPS.BO.GeographicErea">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:GEMPS.BO.GeographicErea.Name">
+            <summary>
+            This Geographic Erea name.
+            </summary>
+        </member>
+        <member name="M:GEMPS.BO.GeographicErea.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:GEMPS.BO.GeographicErea.#ctor(System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="id"></param>
+            <param name="name"></param>
+        </member>
+        <member name="M:GEMPS.BO.GeographicErea.#ctor(GEMPS.BO.GeographicErea)">
+            <summary>
+            
+            </summary>
+            <param name="geographicErea"></param>
+        </member>
+        <member name="M:GEMPS.BO.GeographicErea.GetHashCode">
+            <summary>
+            A redefinition of the GetHashCode() method.
+            </summary>
+            <returns>Returns the hash code for this GeographicErea instance Id value.</returns>
+        </member>
+        <member name="M:GEMPS.BO.GeographicErea.Equals(System.Object)">
+            <summary>
+            Determines whether this instance and another specified GeographicErea instance are the same, referring to their Ids values.
+            </summary>
+            <param name="obj">The other GeographicErea instance to compare with this instance.</param>
+            <returns>Returns a Boolean (true or false) value.</returns>
+        </member>
+        <member name="M:GEMPS.BO.GeographicErea.ToString">
+            <summary>
+            A redefinition of the ToString() method.
+            </summary>
+            <returns>Returns a string that represents the current GeographicErea instance.</returns>
+        </member>
+        <member name="T:GEMPS.BO.Location">
+            <summary>
+            Represents an instance of Location.
+            </summary>
+        </member>
+        <member name="P:GEMPS.BO.Location.TownId">
+            <summary>
+            The system identifier of the Town in which this Location is.
+            </summary>
+        </member>
+        <member name="M:GEMPS.BO.Location.#ctor">
+            <summary>
+            Represents an instance of Location with none-initialized properties.
+            </summary>
+        </member>
+        <member name="M:GEMPS.BO.Location.#ctor(System.String,System.String)">
+            <summary>
+            Represents an instance of Location.
+            </summary>
+            <param name="townId">The system identifier of the Town in which this Location is.</param>
+            <param name="name">This Location description.</param>
+        </member>
+        <member name="M:GEMPS.BO.Location.#ctor(GEMPS.BO.Location)">
+             <summary>
+             Represents an instance of Location having the copy of properties values from another existing Location instance.
+             </summary>
+            <param name="location">The Location instance from which the properpies values will be copied.</param>
+        </member>
+        <member name="M:GEMPS.BO.Location.GetHashCode">
+            <summary>
+            A redefinition of the string.GetHashCode() method.
+            </summary>
+            <returns>Returns the hash code for this Location instance Id value.</returns>
+        </member>
+        <member name="M:GEMPS.BO.Location.Equals(System.Object)">
+            <summary>
+            Determines whether this instance and another specified Location object are the same, referring to their Ids values.
+            </summary>
+            <param name="obj">The other Location object to compare with this instance.</param>
+            <returns>Returns a Boolean (true or false) value.</returns>
+        </member>
+        <member name="M:GEMPS.BO.Location.ToString">
+            <summary>
+            A redefinition of the string.ToString() method.
+            </summary>
+            <returns>Returns a string that represents the current Location object.</returns>
+        </member>
+        <member name="T:GEMPS.BO.Region">
+            <summary>
+            Represents an instance of Region.
+            </summary>
+        </member>
+        <member name="M:GEMPS.BO.Region.#ctor">
+            <summary>
+            Represents an instance of Region with none-initialized properties.
+            </summary>
+        </member>
+        <member name="M:GEMPS.BO.Region.#ctor(System.String)">
+            <summary>
+            Represents an instance of Region.
+            </summary>
+            <!--<param name="id">The system identifier of this Region.</param>-->
+            <param name="name">This Region name.</param>
+        </member>
+        <member name="M:GEMPS.BO.Region.#ctor(GEMPS.BO.Region)">
+            <summary>
+            Represents an instance of Region having the copy of properties values from another existing Region instance.
+            </summary>
+            <param name="region">The Region instance from which the properpies values will be copied.</param>
+        </member>
+        <member name="M:GEMPS.BO.Region.GetHashCode">
+            <summary>
+            A redefinition of the GetHashCode() method.
+            </summary>
+            <returns>Returns the hash code for this Region instance Id value.</returns>
+        </member>
+        <member name="M:GEMPS.BO.Region.Equals(System.Object)">
+            <summary>
+            Determines whether this instance and another specified Region instance are the same, referring to their Ids values.
+            </summary>
+            <param name="obj">The other Region object to compare with this instance.</param>
+            <returns>Returns a Boolean (true or false) value.</returns>
+        </member>
+        <member name="M:GEMPS.BO.Region.ToString">
+            <summary>
+            A redefinition of the ToString() method.
+            </summary>
+            <returns>Returns a string that represents the current Region instance.</returns>
+        </member>
+        <member name="T:GEMPS.BO.RsBO">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:GEMPS.BO.RsBO.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:GEMPS.BO.RsBO.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:GEMPS.BO.RsBO.NoImage">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="T:GEMPS.BO.SystemStoredObject">
+            <summary>
+            Represents an instance of system object that can be stored in the database.
+            </summary>
+        </member>
+        <member name="P:GEMPS.BO.SystemStoredObject.Id">
+            <summary>
+            The system identifier of this SystemStoredObject.
+            </summary>
+        </member>
+        <member name="P:GEMPS.BO.SystemStoredObject.IsDeleted">
+            <summary>
+            Specifies if the SystemStoredObject should behave as a deleted object or not.
+            </summary>
+        </member>
+        <member name="M:GEMPS.BO.SystemStoredObject.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:GEMPS.BO.SystemStoredObject.#ctor(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="id"></param>
+            <param name="isDeleted"></param>
+        </member>
+        <member name="M:GEMPS.BO.SystemStoredObject.#ctor(GEMPS.BO.SystemStoredObject)">
+            <summary>
+            
+            </summary>
+            <param name="systemStoredObject"></param>
+        </member>
+        <member name="M:GEMPS.BO.SystemStoredObject.GetHashCode">
+            <summary>
+            A redefinition of the GetHashCode() method.
+            </summary>
+            <returns>Returns the hash code for this SystemStoredObject instance Id value.</returns>
+        </member>
+        <member name="M:GEMPS.BO.SystemStoredObject.Equals(System.Object)">
+            <summary>
+            Determines whether this instance and another specified SystemStoredObject instance are the same, referring to their Ids values.
+            </summary>
+            <param name="obj">The other SystemStoredObject instance to compare with this instance.</param>
+            <returns>Returns a Boolean (true or false) value.</returns>
+        </member>
+        <member name="M:GEMPS.BO.SystemStoredObject.ToString">
+            <summary>
+            A redefinition of the ToString() method.
+            </summary>
+            <returns>Returns a string that represents the current SystemStoredObject instance.</returns>
+        </member>
+        <member name="T:GEMPS.BO.Town">
+            <summary>
+            Represents an instance of Town.
+            </summary>
+        </member>
+        <member name="P:GEMPS.BO.Town.CountryId">
+            <summary>
+            The system identifier of the Country in which this Town is located.
+            </summary>
+        </member>
+        <member name="M:GEMPS.BO.Town.#ctor">
+            <summary>
+            Represents an instance of Town with none-initialized properties.
+            </summary>
+        </member>
+        <member name="M:GEMPS.BO.Town.#ctor(System.String,System.String)">
+             <summary>
+             Represents an instance of Town.
+             </summary>
+            <param name="countryId">The system identifier of the Country in which this Town is located.</param>
+             <param name="name">This Town name.</param>
+        </member>
+        <member name="M:GEMPS.BO.Town.#ctor(GEMPS.BO.Town)">
+             <summary>
+             Represents an instance of Town having the copy of properties values from another existing Town instance.
+             </summary>
+            <param name="town">The Town instance from which the properpies values will be copied.</param>
+        </member>
+        <member name="M:GEMPS.BO.Town.GetHashCode">
+            <summary>
+            A redefinition of the string.GetHashCode() method.
+            </summary>
+            <returns>Returns the hash code for this Town instance Id value.</returns>
+        </member>
+        <member name="M:GEMPS.BO.Town.Equals(System.Object)">
+            <summary>
+            Determines whether this instance and another specified Town object are the same, referring to their Ids values.
+            </summary>
+            <param name="obj">The other Town object to compare with this instance.</param>
+            <returns>Returns a Boolean (true or false) value.</returns>
+        </member>
+        <member name="M:GEMPS.BO.Town.ToString">
+            <summary>
+            A redefinition of the string.ToString() method.
+            </summary>
+            <returns>Returns a string that represents the current Town object.</returns>
+        </member>
+    </members>
+</doc>

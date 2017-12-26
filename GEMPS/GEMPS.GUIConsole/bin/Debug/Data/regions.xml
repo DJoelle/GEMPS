@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRegion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Region>
+    <Id>0</Id>
+    <IsDeleted>false</IsDeleted>
+    <Name>Africa</Name>
+  </Region>
+  <Region>
+    <Id>1</Id>
+    <IsDeleted>true</IsDeleted>
+    <Name>Europe</Name>
+  </Region>
+</ArrayOfRegion>

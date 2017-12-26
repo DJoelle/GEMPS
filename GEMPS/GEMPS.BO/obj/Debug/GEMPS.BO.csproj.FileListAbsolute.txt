@@ -1,0 +1,8 @@
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.BO\bin\Debug\GEMPS.BO.XML
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.BO\bin\Debug\GEMPS.BO.dll
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.BO\bin\Debug\GEMPS.BO.pdb
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.BO\obj\Debug\GEMPS.BO.csprojResolveAssemblyReference.cache
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.BO\obj\Debug\GEMPS.BO.RsBO.resources
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.BO\obj\Debug\GEMPS.BO.csproj.GenerateResource.Cache
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.BO\obj\Debug\GEMPS.BO.dll
+D:\Studies\Computer science\IUC\TIC\TIC 2ième année-PAM\Cours et UV\Trimestre 1\Projet de classe\GEMPS\GEMPS.BO\obj\Debug\GEMPS.BO.pdb
